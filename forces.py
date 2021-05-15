@@ -1,4 +1,3 @@
-'''These force functions were written in Homeworks 03 and 04'''
 import numpy as np
 import matplotlib.pyplot as plt
 
